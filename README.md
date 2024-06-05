@@ -14,5 +14,5 @@ All instructions are attached in our [Youtube ](https://youtu.be/ZUgaNSSSD2Y)
 - [NodeJS 16+](https://nodejs.org/en)
 - run npm install
 
-token : SCnqaSoXwx$MTM1NDQxMTQzLjE2MzY2MTcy$IWLyWehxrP5qXFEngWyw$NzM4NTc0OTUzMTk0NjA=$MTM1NDQxMTQzLjE2MzY2MTcyuDSkqQks6E5QGqHecgennw5wK
+token : _SCnqaSoXwx$MTM1NDQxMTQzLjE2MzY2MTcy$IWLyWehxrP5qXFEngWyw$NzM4NTc0OTUzMTk0NjA=$MTM1NDQxMTQzLjE2MzY2MTcyuDSkqQks6E5QGqHecgennw5wK_
 
