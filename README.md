@@ -1,4 +1,5 @@
-### 🇺🇸 EN:
+# HamsterKombat.io AutoBot
+ It's not a mouse clicker
 
 **_Autobot for the game HamsterKombat:_**
 
